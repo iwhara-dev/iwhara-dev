@@ -1,9 +1,4 @@
-<h1 align="center">👨‍💻 Iwhara Samara </h1>
 
-<p align="center">
-  💻 Estudante de tecnologia <br>
-  🚀 Sempre evoluindo
-</p>
 
 <p align="center">
   <a href="www.linkedin.com/in/iwhara-samara-463309271">
