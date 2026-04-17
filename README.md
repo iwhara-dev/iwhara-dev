@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/iwhara-samara-463309271">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
 </a>
-<a href="mailto:iwharaoliveira@gmail.com">
+<a href="mailto:"iwharaoliveira@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
 </a>
 <a href="https://www.instagram.com/_iwhara?igsh=MXVmZGxzM2lueTkydQ%3D%3D&utm_source=qr">
