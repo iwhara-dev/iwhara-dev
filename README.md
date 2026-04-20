@@ -13,9 +13,9 @@
 
 ---
 
-Olá! Eu sou  **Iwhara Samara**
+Olá! Eu sou a **Iwhara Samara**
 
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonadaa por tecnologia e movida pelo aprendizado contínuo. Atualmente, venho desenvolvendo minhas habilidades em lógica de programação e Java por meio de projetos práticos, com foco em fortalecer meus conhecimentos e adquirir experiência em desenvolvimento de software.
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e movida pelo aprendizado contínuo. Atualmente, venho desenvolvendo minhas habilidades em lógica de programação e Java por meio de projetos práticos, com foco em fortalecer meus conhecimentos e adquirir experiência em desenvolvimento de software.
 
 ---
 
